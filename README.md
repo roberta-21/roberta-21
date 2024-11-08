@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! Welcome to my GitHub profile.</h1>
-<h3 align="center">I'm a passionate developer with a background in Artificial Intelligence and Data Science. I enjoy building projects that solve real-world problems and improve productivity. Here you'll find a mix of personal projects, contributions to open-source, and collaborative work with a focus on writing clean, efficient code.</h3>
+<h3 align="center">I'm a developer passionate about creating innovative solutions, with a background in Artificial Intelligence and a growing expertise in Android development. I enjoy building projects that solve real-world problems and improve productivity. Here you'll find a mix of personal projects, contributions to open-source, and collaborative work with a focus on writing clean, efficient code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roberta-21&label=Profile%20views&color=0e75b6&style=flat" alt="roberta-21" /> </p>
 
